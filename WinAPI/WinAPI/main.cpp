@@ -1,6 +1,6 @@
 #include<Windows.h>
 #include"resource.h"
-
+#include<cstdio>
 
 BOOL CALLBACK DlgProc(HWND hwnd, UINT uMsg, WPARAM wParm, LPARAM lParam);
 
